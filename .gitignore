@@ -1,3 +1,9 @@
+# Secrets file
+**/credentials.json
+**/token.pickle
+**/*eStatement*pdf
+**/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
